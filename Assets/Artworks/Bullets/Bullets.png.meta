@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 2f77433558cafae4cbbb70bc3c88e3d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 874343242196921964
+    second: Bullets_0
+  - first:
+      213: -7976837497307082302
+    second: Bullets_1
+  - first:
+      213: -7803065417098437583
+    second: Bullets_2
+  - first:
+      213: 7431529995326980795
+    second: Bullets_3
+  - first:
+      213: -7779215486825634471
+    second: Bullets_4
+  - first:
+      213: 830317617348258784
+    second: Bullets_5
+  - first:
+      213: 6112890488319390909
+    second: Bullets_6
+  - first:
+      213: 1757937406519661826
+    second: Bullets_7
+  - first:
+      213: -2121471355247410076
+    second: Bullets_8
+  - first:
+      213: 3619374306951625730
+    second: Bullets_9
+  - first:
+      213: -7398920399615116625
+    second: Bullets_10
+  - first:
+      213: 1017609225550985244
+    second: Bullets_11
+  - first:
+      213: 2941505409271155289
+    second: Bullets_0
+  - first:
+      213: -3507833246552792370
+    second: Bullets_13
+  - first:
+      213: -5417137058416166357
+    second: Bullets_14
+  - first:
+      213: -3543048863620948104
+    second: Bullets_15
+  - first:
+      213: 4311957265778303553
+    second: Bullets_16
+  - first:
+      213: 2031301648050754763
+    second: Bullets_17
+  - first:
+      213: 8781172507622064882
+    second: Bullets_18
+  - first:
+      213: 380848690993824820
+    second: Bullets_19
+  - first:
+      213: -5139595501397214509
+    second: Bullets_20
+  - first:
+      213: -8025264709436843619
+    second: Bullets_21
+  - first:
+      213: -2159571600584141652
+    second: Bullets_22
+  - first:
+      213: 3020426036130856944
+    second: Bullets_23
+  - first:
+      213: 8481577158663800423
+    second: Bullets_24
+  - first:
+      213: -3248768135920844227
+    second: Bullets_25
+  - first:
+      213: 5075594579446865605
+    second: Bullets_26
+  - first:
+      213: 7400421876906394292
+    second: Bullets_27
+  - first:
+      213: 7809205399895181096
+    second: Bullets_28
+  - first:
+      213: -2904209371353226583
+    second: Bullets_29
+  - first:
+      213: -6420844195460199693
+    second: Bullets_30
+  - first:
+      213: 3875386850156840488
+    second: Bullets_31
+  - first:
+      213: 1075554528415370117
+    second: Bullets_32
+  - first:
+      213: 6653515770746180786
+    second: Bullets_0
+  - first:
+      213: 7719271388254975175
+    second: Bullets_1
+  - first:
+      213: -2370755551339566138
+    second: Bullets_2
+  - first:
+      213: 3091201978208554243
+    second: Bullets_3
+  - first:
+      213: 1399736948543597995
+    second: Bullets_4
+  - first:
+      213: 2084095173187211960
+    second: Bullets_5
+  - first:
+      213: -9152213370126407807
+    second: Bullets_6
+  - first:
+      213: 6588980151119997740
+    second: Bullets_7
+  - first:
+      213: 4302715304381717948
+    second: Bullets_8
+  - first:
+      213: -5861434700910914943
+    second: Bullets_9
+  - first:
+      213: 566384009677654526
+    second: Bullets_10
+  - first:
+      213: 1140859145358164477
+    second: Bullets_11
+  - first:
+      213: -389138893206059370
+    second: Bullets_0
+  - first:
+      213: -7494525987374034201
+    second: Bullets_13
+  - first:
+      213: -6753567665083279134
+    second: Bullets_14
+  - first:
+      213: 6731655869931471565
+    second: Bullets_15
+  - first:
+      213: 3315581073102640461
+    second: Bullets_16
+  - first:
+      213: -9049109862084436956
+    second: Bullets_17
+  - first:
+      213: -2132858350930623241
+    second: Bullets_18
+  - first:
+      213: -1065450308365492986
+    second: Bullets_19
+  - first:
+      213: 1313312400212897503
+    second: Bullets_20
+  - first:
+      213: -763508570421544259
+    second: Bullets_21
+  - first:
+      213: 1299782697427665702
+    second: Bullets_22
+  - first:
+      213: 989179773165314281
+    second: Bullets_23
+  - first:
+      213: 5139716600951773164
+    second: Bullets_24
+  - first:
+      213: 8912155924427311058
+    second: Bullets_25
+  - first:
+      213: 6572131042785120078
+    second: Bullets_26
+  - first:
+      213: 4375636204168283541
+    second: Bullets_27
+  - first:
+      213: -2140575626196318886
+    second: Bullets_28
+  - first:
+      213: -9204511511640330304
+    second: Bullets_29
+  - first:
+      213: 580151787092932664
+    second: Bullets_30
+  - first:
+      213: -2490697356492091648
+    second: Bullets_31
+  - first:
+      213: -874588248199295143
+    second: Bullets_32
+  - first:
+      213: 7526020002069563681
+    second: Bullets_33
+  - first:
+      213: 1942262846362446627
+    second: Bullets_34
+  - first:
+      213: 7491529709737008652
+    second: Bullets_35
+  - first:
+      213: 550780712946729732
+    second: Bullets_36
+  - first:
+      213: -8061456236047456437
+    second: Bullets_37
+  - first:
+      213: 3054627044134025355
+    second: Bullets_38
+  - first:
+      213: 7824364329725064509
+    second: Bullets_39
+  - first:
+      213: 2212971258114523521
+    second: Bullets_40
+  - first:
+      213: -3112707629364167273
+    second: Bullets_41
+  - first:
+      213: -2801188413828906523
+    second: Bullets_42
+  - first:
+      213: -6331664980684406410
+    second: Bullets_43
+  - first:
+      213: 666290146956312264
+    second: Bullets_44
+  - first:
+      213: 1186191241046255239
+    second: Bullets_45
+  - first:
+      213: 3637363274750488564
+    second: Bullets_46
+  - first:
+      213: -4476026940594521554
+    second: Bullets_47
+  - first:
+      213: -7761981562578494135
+    second: Bullets_48
+  - first:
+      213: -4703132324196816328
+    second: Bullets_49
+  - first:
+      213: 8249376495571375207
+    second: Bullets_50
+  - first:
+      213: -7424233011324768093
+    second: Bullets_51
+  - first:
+      213: -8976391588767782205
+    second: Bullets_52
+  - first:
+      213: -4998858486898687225
+    second: Bullets_53
+  - first:
+      213: -2924090030043048836
+    second: Bullets_54
+  - first:
+      213: 8247295196088259214
+    second: Bullets_55
+  - first:
+      213: -8733793815426895964
+    second: Bullets_56
+  - first:
+      213: 9198438318297119011
+    second: Bullets_57
+  - first:
+      213: 1399784326612438852
+    second: Bullets_58
+  - first:
+      213: 4638034875785081577
+    second: Bullets_59
+  - first:
+      213: -3191540648995136777
+    second: Bullets_60
+  - first:
+      213: -2989080228739209912
+    second: Bullets_61
+  - first:
+      213: 3112628020847960136
+    second: Bullets_62
+  - first:
+      213: -5561476735004764157
+    second: Bullets_63
+  - first:
+      213: -2379052948204132433
+    second: Bullets_64
+  - first:
+      213: 4354696149753556427
+    second: Bullets_65
+  - first:
+      213: 4925281477694271293
+    second: Bullets_66
+  - first:
+      213: -7020000618706354416
+    second: Bullets_67
+  - first:
+      213: 6829704520187915586
+    second: Bullets_68
+  - first:
+      213: 5225516858251353919
+    second: Bullets_69
+  - first:
+      213: -6152723440763084550
+    second: Bullets_70
+  - first:
+      213: 5462230370244237961
+    second: Bullets_71
+  - first:
+      213: -8773317590248861251
+    second: Bullets_72
+  - first:
+      213: 5608877973654228779
+    second: Bullets_73
+  - first:
+      213: -7102557114122768155
+    second: Bullets_74
+  - first:
+      213: -2671506382053073586
+    second: Bullets_75
+  - first:
+      213: 3100373092906510596
+    second: Bullets_76
+  - first:
+      213: 2865517150706313819
+    second: Bullets_77
+  - first:
+      213: -5086252329484156432
+    second: Bullets_78
+  - first:
+      213: -1163515702074205077
+    second: Bullets_79
+  - first:
+      213: 3191860009773080540
+    second: Bullets_80
+  - first:
+      213: 6488186498641610253
+    second: Bullets_81
+  - first:
+      213: 4613823061894527985
+    second: Bullets_82
+  - first:
+      213: 7170665018803163558
+    second: Bullets_83
+  - first:
+      213: 4116167863374838494
+    second: Bullets_84
+  - first:
+      213: 5972715857500734155
+    second: Bullets_85
+  - first:
+      213: 7630769322207795771
+    second: Bullets_86
+  - first:
+      213: -8337331060630796999
+    second: Bullets_87
+  - first:
+      213: -1603096367823610810
+    second: Bullets_88
+  - first:
+      213: 1245837391543840744
+    second: Bullets_89
+  - first:
+      213: 3802249742761149076
+    second: Bullets_90
+  - first:
+      213: 5991451171573116869
+    second: Bullets_91
+  - first:
+      213: 5406573370900501430
+    second: Bullets_92
+  - first:
+      213: -1029383141187076210
+    second: Bullets_93
+  - first:
+      213: -1891682204022713184
+    second: Bullets_94
+  - first:
+      213: 3054978192423017252
+    second: Bullets_95
+  - first:
+      213: 2771820192361400708
+    second: Bullets_96
+  - first:
+      213: 2953183801250813600
+    second: Bullets_97
+  - first:
+      213: -4026825371447769598
+    second: Bullets_98
+  - first:
+      213: -1948701048915174251
+    second: Bullets_99
+  - first:
+      213: 8132911721330727329
+    second: Bullets_100
+  - first:
+      213: 7914142889077201357
+    second: Bullets_101
+  - first:
+      213: -355570435480453045
+    second: Bullets_102
+  - first:
+      213: 5656717641496313572
+    second: Bullets_103
+  - first:
+      213: -1357375367168532285
+    second: Bullets_104
+  - first:
+      213: -4017092899784367023
+    second: Bullets_105
+  - first:
+      213: 5503107359199405620
+    second: Bullets_106
+  - first:
+      213: 2673805905287929874
+    second: Bullets_107
+  - first:
+      213: -5644953386944086820
+    second: Bullets_108
+  - first:
+      213: -3022756399338637621
+    second: Bullets_109
+  - first:
+      213: 1425774041625760048
+    second: Bullets_110
+  - first:
+      213: -1534016683067279783
+    second: Bullets_111
+  - first:
+      213: 8617350813768448370
+    second: Bullets_112
+  - first:
+      213: -5256438901143263662
+    second: Bullets_113
+  - first:
+      213: -2982457957318561894
+    second: Bullets_114
+  - first:
+      213: 6850264754816756564
+    second: Bullets_115
+  - first:
+      213: 3129094221123867487
+    second: Bullets_116
+  - first:
+      213: -671593067111401483
+    second: Bullets_117
+  - first:
+      213: 4978579085614344304
+    second: Bullets_118
+  - first:
+      213: 5906269131436525370
+    second: Bullets_119
+  - first:
+      213: 1949223530220716648
+    second: Bullets_120
+  - first:
+      213: -3018112555107246171
+    second: Bullets_121
+  - first:
+      213: 5603335130756622325
+    second: Bullets_122
+  - first:
+      213: 2761788696500746283
+    second: Bullets_123
+  - first:
+      213: -7844928191397385983
+    second: Bullets_124
+  - first:
+      213: 786618036698579853
+    second: Bullets_125
+  - first:
+      213: 1352298387343776428
+    second: Bullets_126
+  - first:
+      213: 7528915035210032462
+    second: Bullets_127
+  - first:
+      213: 2194308995892844644
+    second: Bullets_128
+  - first:
+      213: 6293538099268569675
+    second: Bullets_129
+  - first:
+      213: 244806717863170614
+    second: Bullets_130
+  - first:
+      213: 1971372852943785819
+    second: Bullets_131
+  - first:
+      213: -694897016582221073
+    second: Bullets_132
+  - first:
+      213: 3419705358438151130
+    second: Bullets_133
+  - first:
+      213: 1077904188157963323
+    second: Bullets_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullets_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec26aef5f3ca15fc0800000000000000
+      internalID: -3507833246552792370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aff7deb8672d4b0800000000000000
+      internalID: -5417137058416166357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 73
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f950694df84dec0800000000000000
+      internalID: -3543048863620948104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426169994627db30800000000000000
+      internalID: 4311957265778303553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24d3cfeddfcd970800000000000000
+      internalID: 8781172507622064882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca419283219a702e0800000000000000
+      internalID: -2159571600584141652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 43
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbbe91a75bae920800000000000000
+      internalID: 3020426036130856944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 45
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766093d0d7d94b570800000000000000
+      internalID: 8481577158663800423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce14dbd062207640800000000000000
+      internalID: 5075594579446865605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b20909ec7493b660800000000000000
+      internalID: 7400421876906394292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82780deafeedf5c60800000000000000
+      internalID: 7809205399895181096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a26123c6fc22b7d0800000000000000
+      internalID: -2904209371353226583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa477b293494e6a0800000000000000
+      internalID: -6420844195460199693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82681dabec328c530800000000000000
+      internalID: 3875386850156840488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e29eadb8a422c00800000000000000
+      internalID: 874343242196921964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullets_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1defd2f849c4190800000000000000
+      internalID: -7976837497307082302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

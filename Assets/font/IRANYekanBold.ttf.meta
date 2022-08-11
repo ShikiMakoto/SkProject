@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3c72478c427419540a9f0cc2e75e796e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IRANYekan
+  fontNames:
+  - IRANYekan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31e55c47362fed94483633562064a51e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

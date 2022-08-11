@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c5bf4edab8874084eb56f0cdae577019
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: minecraftia
+  fontNames:
+  - minecraftia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71b8dc14a783c4640927c50a2330b3be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
